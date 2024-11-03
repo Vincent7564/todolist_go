@@ -2,7 +2,7 @@ export interface Task {
     id: number;
     title: string;
     description: string;
-    is_active: boolean;
+    Is_active: boolean;
   }
   
   export interface Result {
